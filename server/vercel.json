@@ -19,7 +19,7 @@
                 "OPTIONS"
             ],
             "headers": {
-                "Access-Control-Allow-Origin": "https://cerulean-kitten-16952f.netlify.app"
+                "Access-Control-Allow-Origin": "https://car-rental-12345.netlify.app"
             }
         }
     ],
