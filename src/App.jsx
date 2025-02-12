@@ -22,7 +22,7 @@ const App = () => {
     const [darkMode, setDarkMode] = useState(false);
     const [myCars, setMyCars] = useState([]);
 
-    const server = "https://server-seven-gray-72.vercel.app";
+    const server = "https://car-rental-server-sooty.vercel.app";
 
     String.prototype.toCapitalize = function () {
         return this
